@@ -1,0 +1,3 @@
+# Description: regex to replace comment at source code
+
+\/\*.*?\*\/\n
